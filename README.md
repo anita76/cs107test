@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/anita76/cs107test.svg?branch=main)](https://travis-ci.org/anita76/cs107test)
+[![Build Status](https://travis-ci.org/anita76/cs107test.svg?branch=main)](https://travis-ci.org/anita76/cs107test.svg?branch=main)
 
-[![codecov](https://codecov.io/gh/anita76/cs107test/branch/master/graph/badge.svg?token=E84G7Y8MLJ)](undefined)
+[![Coverage Status](https://codecov.io/gh/anita76/cs107test/branch/master/graph/badge.svg)](https://codecov.io/gh/anita76/cs107test)
 
 # CS107 Test
